@@ -1,2 +1,2 @@
 # Food-deivery
-#Online food odering dummy website
+- Online food odering dummy website
